@@ -14,7 +14,7 @@ The following features were gathered for each game:
 * Platform
 * Genre(s)
 * Developer/Publisher
-* # of Players
+* Number of Players (allowed in the game)
 
 For each game comment, the following features were collected:
 
