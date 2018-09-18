@@ -10,18 +10,18 @@ Used Selenium and BeautifulSoup to collect data on over 3400 games with a total 
 
 The following features were gathered for each game:
 
-*Game Title
-*Platform
-*Genre(s)
-*Developer/Publisher
-*# of Players
+* Game Title
+* Platform
+* Genre(s)
+* Developer/Publisher
+* # of Players
 
 For each game comment, the following features were collected:
 
-*Username
-*User Score
-*Review Text
-*Number of Helpfulness
+* Username
+* User Score
+* Review Text
+* Number of Helpfulness
 
 Due to limited time, I was unable to collect all ~15,000 games listed on Metacritic. To collect data more efficiently, I set up multiple scrapers on an EC2 instance in AWS.
 
