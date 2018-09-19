@@ -25,6 +25,8 @@ For each game comment, the following features were collected:
 
 Due to limited time, I was unable to collect all ~15,000 games listed on Metacritic. To collect data more efficiently, I set up multiple scrapers on an EC2 instance in AWS.
 
+This data is available in CSV format on Kaggle. You can find this dataset by clicking [here](https://www.kaggle.com/dahlia25/metacritic-video-game-comments)
+
 ### Tools & Packages Required
 
 * Python
