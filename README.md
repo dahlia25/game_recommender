@@ -94,6 +94,4 @@ By doing this, not only are the features/themes captured, I am also able to reco
 
 Some problems that I encountered in this project:
 
-* When I built my web scraper with Selenium, I was unable to prevent the *TimeOutError*. I imported the *TimeOutError* from Selenium, but that did not prevent the browser from timing out.
-* When I set up a web scraper on AWS, the scraper was functional but it was not able to use the driver.get_element_by to click the next page.
 * When I was using NLP to analyze user review text, after topic modeling, I also performed clustering. LDA (Latent Dirichlet Allocation) with CountVectorizer resulted in the best clustering, but the topics did not make sense. In the end, I chose to use LSA (Latent Semantic Analysis) with the TF-IDF vectorizer, since the topics made sense and the clusters were decent.
